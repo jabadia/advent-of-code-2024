@@ -37,4 +37,4 @@ if __name__ == '__main__':
         print(answer)
         submit_answer(answer)
     else:
-        print("Tests failed")
+        print("[ERROR] Tests failed")
